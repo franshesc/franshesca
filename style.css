@@ -1,17 +1,24 @@
+.corpodosite{
+    color: white;
+}
+
+
+
 .cabecalho {
-    background-color: aquamarine;
+   background-image: linear-gradient(aqua, blue);
     color: black;
     display: block;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: aqua;
+    background-image: linear-gradient(blue, white);
     padding: 100px;
+    font-size: 20px;
 }
 
 .section2 {
-    background-color: blue;
+    background-image: linear-gradient(white, red);
     padding: 100px;
 }
 
